@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.nazareno {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: medium;
+	color: #CCCCCC;
+}
+.numeros {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #330000;
+}
+.titulo {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: italic;
+	color: #330033;
+	letter-spacing: -1px;
+}
+.texto {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #CCCCCC;
+	text-indent: 15px;
+	white-space: normal;
+}

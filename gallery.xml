@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="600" maxImageHeight="400" textColor="0xcccccc" frameColor="0xcccccc" frameWidth="1" stagePadding="10" navPadding="10" thumbnailColumns="8" thumbnailRows="1" navPosition="bottom" vAlign="top" hAlign="center" enableRightClickOpen="true" backgroundImagePath="" imagePath="img/" thumbPath="">
+<image>
+	<filename>principio-de-siglo.jpg</filename>
+	<caption>Procesión a principios del siglo XX</caption>	
+</image>
+
+<image>
+	<filename>procesion1930.jpg</filename>
+	<caption></caption>	
+</image>
+
+<image>
+	<filename>procesionfrontal.jpg</filename>
+	<caption>Saliendo de la iglesia de Santa María</caption>	
+</image>
+
+<image>
+	<filename>frente-santa-cruz-1900.jpg</filename>
+	<caption></caption>	
+</image>
+<image>
+	<filename>procesion-manana.jpg</filename>
+	<caption></caption>	
+</image>
+
+<image>
+	<filename>ninoprocesion2.jpg</filename>
+	<caption>Junto a San Francisco. Viernes Santo por la mañana</caption>	
+</image>
+
+<image>
+	<filename>hermanas.jpg</filename>
+	<caption>Hermanas alumbrando hacia 1930</caption>	
+</image>
+
+<image>
+	<filename>junto-san-francisco-60.jpg</filename>
+	<caption></caption>	
+</image>
+
+<image>
+	<filename>plaza-mayor-60.jpg</filename>
+	<caption></caption>	
+</image>
+
+<image>
+	<filename>nazareno1979.jpg</filename>
+	<caption>Sin túnica</caption>	
+</image>
+
+<image>
+	<filename>procesionhoy.jpg</filename>
+	<caption></caption>	
+</image>
+
+<image>
+	<filename>cirineosantiago.jpg</filename>
+	<caption></caption>	
+	</image>
+	
+
+<image>
+	<filename>desde-atras-procesion.jpg</filename>
+	<caption></caption>	
+</image>
+
+
+<image>
+	<filename>paso-sin-tunica.jpg</filename>
+	<caption></caption>	
+</image>
+
+
+<image>
+	<filename>procesion1930.jpg</filename>
+	<caption></caption>	
+</image>
+<image>
+	<filename>rostro-sin-tunica.jpg</filename>
+	<caption></caption>	
+</image>
+</simpleviewergallery>
